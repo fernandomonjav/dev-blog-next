@@ -1,0 +1,18 @@
+{
+  "name": "dev-blog-next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fernandomonjav/dev-blog-next",
+  "author": "Fernando Monja Vasquez <fernandomonjav@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^10.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
